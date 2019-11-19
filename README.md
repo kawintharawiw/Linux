@@ -44,3 +44,4 @@ id,pwd,ls,ping,netstat,df,du,ps,kill,date,env,find,mkdir,rmdir,gzip
 **-netstat**
 ![Image](http://kawintharawiw.github.io/HW_10/netstat.png)
 
+
