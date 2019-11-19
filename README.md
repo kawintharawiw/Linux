@@ -36,12 +36,12 @@ id,pwd,ls,ping,netstat,df,du,ps,kill,date,env,find,mkdir,rmdir,gzip
 ###**ภาพตัวอย่าง** จากการทดลองใช้คำสั่ง
 
 **-mkdir**
-![Image](http://kawintharawiw.github.io/HW_10/mkdir.png)
+![Image](http://kawintharawiw.github.io/linux/mkdir.png)
 
 **-rmdir**
-![Image](http://kawintharawiw.github.io/HW_10/rmdir.png)
+![Image](http://kawintharawiw.github.io/linux/rmdir.png)
 
 **-netstat**
-![Image](http://kawintharawiw.github.io/HW_10/netstat.png)
+![Image](http://kawintharawiw.github.io/linux/netstat.png)
 
 
